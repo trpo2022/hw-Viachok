@@ -1,5 +1,5 @@
 int main()
 {
     printf("Hello World!");
-    retirn 0;
+    return 0;
 }
